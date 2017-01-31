@@ -2,7 +2,7 @@
 A repo to track the most popular conferences.
 
 ### 2017
-| Name & Website    |Organize|Location | Dates  | CFP Deadline | Scholarship Info | Career Fair |
+| Name    |Organizer|Location | Dates  | CFP Deadline | Scholarship Info | Career Fair |
 | ----------------- |--------|---------| ---------| -----| -----|----|
 | [International Women's Day](https://www.womentechmakers.com/iwd17) | [Women Techmakers, Google](https://www.womentechmakers.com/)| [Multiple Locations] (https://www.womentechmakers.com/iwd17) |  Throughout March and April 2017 | N/A | N/A | N/A|
 | [Facebook F8](https://www.fbf8.com/) | Facebook| SAN JOSE, CALIFORNIA | April 18 - 19, 2017 | N/A | N/A | N/A|
